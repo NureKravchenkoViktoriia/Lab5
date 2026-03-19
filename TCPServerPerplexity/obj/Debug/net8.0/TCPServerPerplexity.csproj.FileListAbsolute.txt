@@ -1,0 +1,4 @@
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerPerplexity\obj\Debug\net8.0\TCPServerPerplexity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerPerplexity\obj\Debug\net8.0\TCPServerPerplexity.AssemblyInfoInputs.cache
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerPerplexity\obj\Debug\net8.0\TCPServerPerplexity.AssemblyInfo.cs
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerPerplexity\obj\Debug\net8.0\TCPServerPerplexity.csproj.CoreCompileInputs.cache

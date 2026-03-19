@@ -1,0 +1,14 @@
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGitHub\bin\Debug\net8.0\TCPServerGitHub.exe
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGitHub\bin\Debug\net8.0\TCPServerGitHub.deps.json
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGitHub\bin\Debug\net8.0\TCPServerGitHub.runtimeconfig.json
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGitHub\bin\Debug\net8.0\TCPServerGitHub.dll
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGitHub\bin\Debug\net8.0\TCPServerGitHub.pdb
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGitHub\obj\Debug\net8.0\TCPServerGitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGitHub\obj\Debug\net8.0\TCPServerGitHub.AssemblyInfoInputs.cache
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGitHub\obj\Debug\net8.0\TCPServerGitHub.AssemblyInfo.cs
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGitHub\obj\Debug\net8.0\TCPServerGitHub.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGitHub\obj\Debug\net8.0\TCPServerGitHub.dll
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGitHub\obj\Debug\net8.0\refint\TCPServerGitHub.dll
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGitHub\obj\Debug\net8.0\TCPServerGitHub.pdb
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGitHub\obj\Debug\net8.0\TCPServerGitHub.genruntimeconfig.cache
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGitHub\obj\Debug\net8.0\ref\TCPServerGitHub.dll

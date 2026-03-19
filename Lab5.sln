@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServerFirst", "TCPServer\TCPServerFirst.csproj", "{D754F3AA-D261-4752-B47F-1AA370DB1E0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClient", "TCPClient\TCPClient.csproj", "{3E00D829-8FA9-4F49-8882-094A39AE04BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServerGPT", "TCPServerGPT\TCPServerGPT.csproj", "{6586E8F9-7BD9-49AC-93EA-E93BFFD235DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServerPerplexity", "TCPServerPerplexity\TCPServerPerplexity.csproj", "{0FDE88C8-4005-4D56-8D2F-3FDBE49752C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServerGitHub", "TCPServerGitHub\TCPServerGitHub.csproj", "{F540F3E7-FF2C-418E-BE66-FEB1E0B60338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServerFinal", "TCPServerFinal\TCPServerFinal.csproj", "{56544DCF-4EA9-486D-BB35-9AF62F630F1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D754F3AA-D261-4752-B47F-1AA370DB1E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D754F3AA-D261-4752-B47F-1AA370DB1E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D754F3AA-D261-4752-B47F-1AA370DB1E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D754F3AA-D261-4752-B47F-1AA370DB1E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E00D829-8FA9-4F49-8882-094A39AE04BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E00D829-8FA9-4F49-8882-094A39AE04BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E00D829-8FA9-4F49-8882-094A39AE04BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E00D829-8FA9-4F49-8882-094A39AE04BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6586E8F9-7BD9-49AC-93EA-E93BFFD235DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6586E8F9-7BD9-49AC-93EA-E93BFFD235DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6586E8F9-7BD9-49AC-93EA-E93BFFD235DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6586E8F9-7BD9-49AC-93EA-E93BFFD235DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FDE88C8-4005-4D56-8D2F-3FDBE49752C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FDE88C8-4005-4D56-8D2F-3FDBE49752C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FDE88C8-4005-4D56-8D2F-3FDBE49752C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FDE88C8-4005-4D56-8D2F-3FDBE49752C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F540F3E7-FF2C-418E-BE66-FEB1E0B60338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F540F3E7-FF2C-418E-BE66-FEB1E0B60338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F540F3E7-FF2C-418E-BE66-FEB1E0B60338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F540F3E7-FF2C-418E-BE66-FEB1E0B60338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56544DCF-4EA9-486D-BB35-9AF62F630F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56544DCF-4EA9-486D-BB35-9AF62F630F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56544DCF-4EA9-486D-BB35-9AF62F630F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56544DCF-4EA9-486D-BB35-9AF62F630F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95A30C88-447F-4138-BB64-46E218983A62}
+	EndGlobalSection
+EndGlobal

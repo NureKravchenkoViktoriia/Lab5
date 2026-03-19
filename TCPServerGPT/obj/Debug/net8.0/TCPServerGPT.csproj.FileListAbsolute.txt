@@ -1,0 +1,14 @@
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGPT\bin\Debug\net8.0\TCPServerGPT.exe
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGPT\bin\Debug\net8.0\TCPServerGPT.deps.json
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGPT\bin\Debug\net8.0\TCPServerGPT.runtimeconfig.json
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGPT\bin\Debug\net8.0\TCPServerGPT.dll
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGPT\bin\Debug\net8.0\TCPServerGPT.pdb
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGPT\obj\Debug\net8.0\TCPServerGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGPT\obj\Debug\net8.0\TCPServerGPT.AssemblyInfoInputs.cache
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGPT\obj\Debug\net8.0\TCPServerGPT.AssemblyInfo.cs
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGPT\obj\Debug\net8.0\TCPServerGPT.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGPT\obj\Debug\net8.0\TCPServerGPT.dll
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGPT\obj\Debug\net8.0\refint\TCPServerGPT.dll
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGPT\obj\Debug\net8.0\TCPServerGPT.pdb
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGPT\obj\Debug\net8.0\TCPServerGPT.genruntimeconfig.cache
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerGPT\obj\Debug\net8.0\ref\TCPServerGPT.dll
