@@ -1,0 +1,14 @@
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerFinal\bin\Debug\net8.0\TCPServerFinal.exe
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerFinal\bin\Debug\net8.0\TCPServerFinal.deps.json
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerFinal\bin\Debug\net8.0\TCPServerFinal.runtimeconfig.json
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerFinal\bin\Debug\net8.0\TCPServerFinal.dll
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerFinal\bin\Debug\net8.0\TCPServerFinal.pdb
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerFinal\obj\Debug\net8.0\TCPServerFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerFinal\obj\Debug\net8.0\TCPServerFinal.AssemblyInfoInputs.cache
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerFinal\obj\Debug\net8.0\TCPServerFinal.AssemblyInfo.cs
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerFinal\obj\Debug\net8.0\TCPServerFinal.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerFinal\obj\Debug\net8.0\TCPServerFinal.dll
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerFinal\obj\Debug\net8.0\refint\TCPServerFinal.dll
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerFinal\obj\Debug\net8.0\TCPServerFinal.pdb
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerFinal\obj\Debug\net8.0\TCPServerFinal.genruntimeconfig.cache
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЛБ5\Lab5\TCPServerFinal\obj\Debug\net8.0\ref\TCPServerFinal.dll
